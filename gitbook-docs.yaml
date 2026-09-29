@@ -6,5 +6,6 @@ site:
       key: default
       title: 深入理解 Klipper
       path: /
+      default: true
       content:
         directory: .
