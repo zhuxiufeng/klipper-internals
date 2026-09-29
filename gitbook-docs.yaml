@@ -1,6 +1,9 @@
-# GitBook 配置文件
-root: .
-
-structure:
-  readme: README.md
-  summary: SUMMARY.md
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  structure:
+    - type: space
+      key: default
+      title: 深入理解 Klipper
+      path: /
+      content:
+        directory: .
